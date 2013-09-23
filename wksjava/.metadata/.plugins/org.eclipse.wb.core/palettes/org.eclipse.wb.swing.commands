@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addComponent
+		id="custom_1357208754278"
+		name="DisplayPanel"
+		visible="true"
+		class="org.fzhen.inv_pendulum.DisplayPanel"
+		category="org.eclipse.wb.swing.components"/>
+	<addComponent
+		id="custom_1357209281582"
+		name="displayPanel"
+		visible="true"
+		class="org.fzhen.inv_pendulum.DisplayPanel"
+		category="org.eclipse.wb.swing.components"/>
+	<removeEntry
+		id="custom_1357209281582"/>
+</commands>
